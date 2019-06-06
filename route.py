@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- encoding: utf-8 -*-
-#This file was created to remove files of a specific path using os library
+#This file was created to remove files of a specific path using os library (Windows Paths)
 
 
 import os
